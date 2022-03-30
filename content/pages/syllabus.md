@@ -18,7 +18,7 @@ This is an graduate introduction to Programming Theory, Logic of Programming, an
 Prerequisites
 -------------
 
-The prerequisites for the course are [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and [6.042](/courses/6-042j-mathematics-for-computer-science-fall-2010/) or equivalent background in Scheme programming and Discrete Mathematics.
+The prerequisites for the course are [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and [6.042](/courses/6-042j-mathematics-for-computer-science-fall-2010) or equivalent background in Scheme programming and Discrete Mathematics.
 
 Staff
 -----
